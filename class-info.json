@@ -1,0 +1,13 @@
+{
+    "name": "Class Ku",
+    "titles": [
+        {
+            "id": 1,
+            "title": "Wali Kelas"
+        },
+        {
+            "id": 2,
+            "title": "Ketua Kelas"
+        }
+    ]
+}
