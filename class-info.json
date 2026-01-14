@@ -1,13 +1,13 @@
 {
-    "name": "Class Ku",
-    "titles": [
-        {
-            "id": 1,
-            "title": "Wali Kelas"
-        },
-        {
-            "id": 2,
-            "title": "Ketua Kelas"
-        }
-    ]
+  "name": "Class Kuff Brow",
+  "titles": [
+    {
+      "id": "bdb5a21b-1132-46f3-9694-f188bb8864c4",
+      "title": "Ketua Kelas"
+    },
+    {
+      "id": "845efa07-4eab-46d3-8420-938ba47979c9",
+      "title": "Wakil Ketua Kelas"
+    }
+  ]
 }
