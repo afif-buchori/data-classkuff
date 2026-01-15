@@ -1,0 +1,36 @@
+[
+  {
+    "day": "Senin",
+    "members": [
+      {
+        "nis": "1",
+        "name": "achmad musthofa ibrahim",
+        "gender": "L",
+        "title": "Anggota"
+      },
+      {
+        "nis": "2",
+        "name": "aldrin alfredo sibarani",
+        "gender": "L",
+        "title": "Anggota"
+      }
+    ]
+  },
+  {
+    "day": "Selasa",
+    "members": [
+      {
+        "nis": "4",
+        "name": "azkadina khansa kamania",
+        "gender": "P",
+        "title": "Anggota"
+      },
+      {
+        "nis": "3",
+        "name": "angelica christabel hermawan",
+        "gender": "P",
+        "title": "Anggota"
+      }
+    ]
+  }
+]
