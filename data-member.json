@@ -1,60 +1,26 @@
 [
   {
-    "day": "Senin",
-    "members": [
-      {
-        "nis": "0008",
-        "name": "kuda",
-        "gender": "L",
-        "title": "Anggota"
-      },
-      {
-        "nis": "0002",
-        "name": "bukan",
-        "gender": "L",
-        "title": "Anggota"
-      },
-      {
-        "nis": "0007",
-        "name": "kambing",
-        "gender": "L",
-        "title": "Anggota"
-      },
-      {
-        "nis": "0005",
-        "name": "babi",
-        "gender": "P",
-        "title": "Anggota"
-      }
-    ]
+    "nis": "1",
+    "name": "achmad musthofa ibrahim",
+    "gender": "L",
+    "title": "Anggota"
   },
   {
-    "day": "Selasa",
-    "members": [
-      {
-        "nis": "0001",
-        "name": "saya",
-        "gender": "L",
-        "title": "Anggota"
-      },
-      {
-        "nis": "0006",
-        "name": "sapi",
-        "gender": "L",
-        "title": "Anggota"
-      },
-      {
-        "nis": "0003",
-        "name": "siapa",
-        "gender": "P",
-        "title": "Ketua Kelas"
-      },
-      {
-        "nis": "0004",
-        "name": "testing",
-        "gender": "P",
-        "title": "Wakil Ketua Kelas"
-      }
-    ]
+    "nis": "2",
+    "name": "aldrin alfredo sibarani",
+    "gender": "L",
+    "title": "Anggota"
+  },
+  {
+    "nis": "3",
+    "name": "angelica christabel hermawan",
+    "gender": "P",
+    "title": "Anggota"
+  },
+  {
+    "nis": "4",
+    "name": "azkadina khansa kamania",
+    "gender": "P",
+    "title": "Anggota"
   }
 ]
