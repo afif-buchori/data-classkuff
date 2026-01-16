@@ -3,10 +3,27 @@
     "day": "Senin",
     "members": [
       {
+        "nis": "1",
+        "name": "achmad musthofa ibrahim",
+        "gender": "L",
+        "title": "sekertaris"
+      },
+      {
         "nis": "6",
         "name": "tes lagi",
         "gender": "L",
         "title": "Anggota"
+      }
+    ]
+  },
+  {
+    "day": "Selasa",
+    "members": [
+      {
+        "nis": "2",
+        "name": "aldrin ",
+        "gender": "L",
+        "title": "Ketua Kelas"
       },
       {
         "nis": "7",
@@ -17,35 +34,13 @@
     ]
   },
   {
-    "day": "Selasa",
-    "members": [
-      {
-        "nis": "5",
-        "name": "nama baru",
-        "gender": "L",
-        "title": "Anggota"
-      }
-    ]
-  },
-  {
     "day": "Rabu",
     "members": [
       {
-        "nis": "2",
-        "name": "aldrin alfredo sibarani",
-        "gender": "L",
-        "title": "Anggota"
-      }
-    ]
-  },
-  {
-    "day": "Kamis",
-    "members": [
-      {
-        "nis": "1",
-        "name": "achmad musthofa ibrahim",
-        "gender": "L",
-        "title": "Anggota"
+        "nis": "3",
+        "name": "angelica christabel hermawan",
+        "gender": "P",
+        "title": "bendahara 1"
       }
     ]
   },
@@ -56,7 +51,7 @@
         "nis": "4",
         "name": "azkadina khansa kamania",
         "gender": "P",
-        "title": "Anggota"
+        "title": "Wakil Ketua Kelas"
       }
     ]
   },
@@ -64,9 +59,9 @@
     "day": "Sabtu",
     "members": [
       {
-        "nis": "3",
-        "name": "angelica christabel hermawan",
-        "gender": "P",
+        "nis": "5",
+        "name": "nama baru",
+        "gender": "L",
         "title": "Anggota"
       }
     ]
