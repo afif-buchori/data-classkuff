@@ -4,6 +4,22 @@
     {
       "id": "",
       "title": "Ketua Kelas"
+    },
+    {
+      "id": "5b347cf7-1b42-43ec-a1cd-6082e2b13e74",
+      "title": "wakil ketua kelas"
+    },
+    {
+      "id": "247265a9-1976-41d8-83ab-fb69c970e2bf",
+      "title": "sekertaris"
+    },
+    {
+      "id": "f8fe8a77-0756-4334-b10a-2dfb4f781aee",
+      "title": "bendahara"
+    },
+    {
+      "id": "bc0cbdbc-370a-4d14-9791-205460a4d91e",
+      "title": "bendahara 2"
     }
   ]
 }
