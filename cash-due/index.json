@@ -1,7 +1,12 @@
 {
-  "updatedAt": "2026-02-03T11:56:22.814Z",
+  "updatedAt": "2026-02-03T12:01:11.680Z",
   "files": [
     "Januari-2026"
   ],
-  "totalPaid": []
+  "totalPaid": [
+    {
+      "month": "Januari-2026",
+      "total": 82
+    }
+  ]
 }
