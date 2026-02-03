@@ -3,6 +3,7 @@
   "files": [
     "Januari-2026"
   ],
+  "priceCashDue": 3000,
   "totalPaid": [
     {
       "month": "Januari-2026",
