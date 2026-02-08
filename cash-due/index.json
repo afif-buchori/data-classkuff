@@ -4,6 +4,7 @@
     "Januari-2026"
   ],
   "priceCashDue": 3000,
+  "initialCash": 0,
   "totalPaid": [
     {
       "month": "Januari-2026",
