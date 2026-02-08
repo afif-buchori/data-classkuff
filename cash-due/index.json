@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T05:12:22.307Z",
+  "updatedAt": "2026-02-08T05:12:48.262Z",
   "files": [
     "Januari-2026"
   ],
@@ -33,6 +33,11 @@
           "date": "22",
           "amount": 12000,
           "note": "testing"
+        },
+        {
+          "date": "2",
+          "amount": 1000,
+          "note": "lagi"
         }
       ]
     }
