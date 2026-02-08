@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T05:13:57.386Z",
+  "updatedAt": "2026-02-08T05:21:16.947Z",
   "files": [
     "Januari-2026"
   ],
@@ -11,5 +11,16 @@
       "total": 82
     }
   ],
-  "cashOut": []
+  "cashOut": [
+    {
+      "month": "Januari-2026",
+      "items": [
+        {
+          "date": "1",
+          "amount": 1000,
+          "note": "testing"
+        }
+      ]
+    }
+  ]
 }
