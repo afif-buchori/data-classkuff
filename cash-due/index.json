@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T02:47:54.294Z",
+  "updatedAt": "2026-02-08T05:12:22.307Z",
   "files": [
     "Januari-2026"
   ],
@@ -11,7 +11,7 @@
       "total": 82
     }
   ],
-   "cashOut": [
+  "cashOut": [
     {
       "month": "Januari-2026",
       "items": [
@@ -28,6 +28,11 @@
           "amount": 15000,
           "category": "Konsumsi",
           "note": "Snack rapat"
+        },
+        {
+          "date": "22",
+          "amount": 12000,
+          "note": "testing"
         }
       ]
     }
