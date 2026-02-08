@@ -11,5 +11,25 @@
       "total": 82
     }
   ],
-  "cashOut": []
+   "cashOut": [
+    {
+      "month": "Januari-2026",
+      "items": [
+        {
+          "id": "co-001",
+          "date": "2026-01-05",
+          "amount": 25000,
+          "category": "ATK",
+          "note": "Beli spidol"
+        },
+        {
+          "id": "co-002",
+          "date": "2026-01-20",
+          "amount": 15000,
+          "category": "Konsumsi",
+          "note": "Snack rapat"
+        }
+      ]
+    }
+  ]
 }
