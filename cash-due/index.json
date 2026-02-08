@@ -11,16 +11,5 @@
       "total": 82
     }
   ],
-  "cashOut": [
-    {
-      "month": "Januari-2026",
-      "items": [
-        {
-          "date": "1",
-          "amount": 1000,
-          "note": "testing"
-        }
-      ]
-    }
-  ]
+  "cashOut": []
 }
