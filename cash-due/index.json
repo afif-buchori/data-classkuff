@@ -4,23 +4,12 @@
     "Januari-2026"
   ],
   "priceCashDue": 3000,
-  "initialCash": 0,
+  "initialCash": 1278000,
   "totalPaid": [
     {
       "month": "Januari-2026",
       "total": 84
     }
   ],
-  "cashOut": [
-    {
-      "month": "Januari-2026",
-      "items": [
-        {
-          "date": "13",
-          "amount": 10000,
-          "note": "beli tanaman"
-        }
-      ]
-    }
-  ]
+  "cashOut": []
 }
