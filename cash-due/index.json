@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T05:21:16.947Z",
+  "updatedAt": "2026-02-13T12:04:29.927Z",
   "files": [
     "Januari-2026"
   ],
@@ -11,5 +11,16 @@
       "total": 82
     }
   ],
-  "cashOut": []
+  "cashOut": [
+    {
+      "month": "Januari-2026",
+      "items": [
+        {
+          "date": "13",
+          "amount": 10000,
+          "note": "beli tanaman"
+        }
+      ]
+    }
+  ]
 }
