@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-23T01:40:00.024Z",
+  "updatedAt": "2026-02-23T01:40:24.391Z",
   "files": [
     "Januari-2026"
   ],
@@ -19,6 +19,11 @@
           "date": "13",
           "amount": 32000,
           "note": "uang duka"
+        },
+        {
+          "date": "31",
+          "amount": 20000,
+          "note": "beli sapu"
         }
       ]
     }
