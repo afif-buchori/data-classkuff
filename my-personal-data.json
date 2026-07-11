@@ -1,0 +1,86 @@
+{
+    "personalInfo": {
+        "firstName": "Muchamad",
+        "lastName": "Afif Buchori",
+        "phone": "82211338805",
+        "mail": "4fifbuchori@gmail.com",
+        "jobInfo": "Frontend Developer",
+        "birthDate": "1992-06-08",
+        "birthCity": "Gresik, Jawa Timur",
+        "Location": "Denpasar, Bali"
+    },
+    "socialMedia": [
+        {
+            "name": "LinkedIn",
+            "urlLink": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "React JS",
+            "rating": 5
+        },
+        {
+            "name": "Next JS",
+            "rating": 5
+        },
+        {
+            "name": "Laravel",
+            "rating": 1
+        },
+        {
+            "name": "Javascript",
+            "rating": 5
+        },
+        {
+            "name": "Typescript",
+            "rating": 5
+        },
+        {
+            "name": "PHP",
+            "rating": 1
+        },
+        {
+            "name": "HTML",
+            "rating": 5
+        },
+        {
+            "name": "CSS",
+            "rating": 5
+        },
+        {
+            "name": "Tailwind CSS",
+            "rating": 5
+        }
+    ],
+    "educations": [
+        {
+            "name": "Institut Teknologi Nasional (ITN) Malang",
+            "major": "Teknik Informatika - S1",
+            "dateStart": "2012-08-01",
+            "dateEnd": "2018-02-01"
+        },
+        {
+            "name": "SMK Telekomunikasi Darul Ulum Jombang",
+            "major": "Multimedia",
+            "dateStart": "2008-07-01",
+            "dateEnd": "2011-05-01"
+        }
+    ],
+    "experiences": [
+        {
+            "company": "",
+            "job": [""],
+            "description": "",
+            "dateStart": "",
+            "dateEnd": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "",
+            "urlLink": "",
+            "description": ""
+        }
+    ]
+}
