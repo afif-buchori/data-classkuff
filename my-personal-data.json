@@ -4,7 +4,7 @@
         "lastName": "Afif Buchori",
         "phone": "82211338805",
         "mail": "4fifbuchori@gmail.com",
-        "jobInfo": "Frontend Developer",
+        "jobInfo": ["Frontend Developer", "IT Support"],
         "birthDate": "1992-06-08",
         "birthCity": "Gresik, Jawa Timur",
         "Location": "Denpasar, Bali"
