@@ -12,76 +12,99 @@
     "aboutMe": "Frontend Developer dengan pengalaman lebih dari 3 tahun dalam membangun aplikasi web modern menggunakan React.js. Berpengalaman mengembangkan frontend pada aplikasi berbasis Laravel, Inertia.js, dan React, termasuk sistem OTA, portal perusahaan, dan aplikasi internal. Terbiasa mengimplementasikan desain menjadi antarmuka yang responsif, melakukan integrasi dengan REST API, serta berkolaborasi dengan backend developer untuk menghasilkan aplikasi yang scalable dan mudah dipelihara.",
     "socialMedia": [
         {
+            "ico": "linkedin",
             "name": "LinkedIn",
-            "urlLink": ""
+            "urlLink": "https://www.linkedin.com/in/muchamad-afif-buchori"
+        },
+        {
+            "ico": "github",
+            "name": "Github",
+            "urlLink": "https://github.com/afif-buchori"
         }
     ],
     "skills": [
         {
+            "ico": "dev",
             "name": "Development",
             "list": [
                 {
+                    "ico": "reactjs",
                     "name": "React JS",
                     "rating": 5
                 },
                 {
+                    "ico": "nextjs",
                     "name": "Next JS",
                     "rating": 5
                 },
                 {
+                    "ico": "laravel",
                     "name": "Laravel",
                     "rating": 1
                 },
                 {
+                    "ico": "js",
                     "name": "Javascript",
                     "rating": 5
                 },
                 {
+                    "ico": "ts",
                     "name": "Typescript",
                     "rating": 5
                 },
                 {
+                    "ico": "php",
                     "name": "PHP",
                     "rating": 1
                 },
                 {
+                    "ico": "html",
                     "name": "HTML",
                     "rating": 5
                 },
                 {
+                    "ico": "css",
                     "name": "CSS",
                     "rating": 5
                 },
                 {
+                    "ico": "tailwind",
                     "name": "Tailwind CSS",
                     "rating": 5
                 }
             ]
         },
         {
+            "ico": "support",
             "name": "IT Support",
             "list": [
                 {
+                    "ico": "pc-assembly",
                     "name": "PC Assembly (Perakitan Komputer)",
                     "rating": 5
                 },
                 {
+                    "ico": "pc-errors",
                     "name": "PC Troubleshooting",
                     "rating": 5
                 },
                 {
+                    "ico": "pc-upgrade",
                     "name": "Hardware Installation & Upgrade",
                     "rating": 3
                 },
                 {
+                    "ico": "device-repair",
                     "name": "Basic Electronic Device Repair",
                     "rating": 2
                 },
                 {
+                    "ico": "software-settings",
                     "name": "Software Installation & Configuration",
                     "rating": 3
                 },
                 {
+                    "ico": "nett-error",
                     "name": "Network Troubleshooting (Basic)",
                     "rating": 1
                 }
