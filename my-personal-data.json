@@ -79,32 +79,32 @@
             "name": "IT Support",
             "list": [
                 {
-                    "ico": "pc-assembly",
+                    "ico": "pcAssembly",
                     "name": "PC Assembly (Perakitan Komputer)",
                     "rating": 5
                 },
                 {
-                    "ico": "pc-errors",
+                    "ico": "pcErrors",
                     "name": "PC Troubleshooting",
                     "rating": 5
                 },
                 {
-                    "ico": "pc-upgrade",
+                    "ico": "pcUpgrade",
                     "name": "Hardware Installation & Upgrade",
                     "rating": 3
                 },
                 {
-                    "ico": "device-repair",
+                    "ico": "deviceRepair",
                     "name": "Basic Electronic Device Repair",
                     "rating": 2
                 },
                 {
-                    "ico": "software-settings",
+                    "ico": "softwareSettings",
                     "name": "Software Installation & Configuration",
                     "rating": 3
                 },
                 {
-                    "ico": "nett-error",
+                    "ico": "nettError",
                     "name": "Network Troubleshooting (Basic)",
                     "rating": 1
                 }
