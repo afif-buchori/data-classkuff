@@ -104,9 +104,16 @@
     ],
     "experiences": [
         {
-            "company": "",
-            "job": [""],
-            "description": "",
+            "company": "PT ELEXART INOVASI KREATIF",
+            "job": ["Frontend Developer, IT Support"],
+            "description": "Membangun aplikasi OTA (Online Travel Agency).\nMengembangkan portal internal perusahaan.\nMembangun sistem registrasi event.\nMenangani IT Support.\nBerkolaborasi dengan beberapa anak perusahaan.",
+            "dateStart": "2023-07-11",
+            "dateEnd": "2026-07-25"
+        },
+        {
+            "company": "Freelance Event",
+            "job": [],
+            "description": "Menangani kebutuhan teknis pada berbagai event.\nMengoperasikan sistem registrasi peserta.\nMelakukan setup laptop, printer, scanner QR, jaringan, dan perangkat pendukung.\nMembantu instalasi dan operasional sound system.\nMendukung tim event production selama persiapan hingga acara selesai.",
             "dateStart": "",
             "dateEnd": ""
         }
