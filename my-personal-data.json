@@ -18,40 +18,74 @@
     ],
     "skills": [
         {
-            "name": "React JS",
-            "rating": 5
+            "name": "Development",
+            "list": [
+                {
+                    "name": "React JS",
+                    "rating": 5
+                },
+                {
+                    "name": "Next JS",
+                    "rating": 5
+                },
+                {
+                    "name": "Laravel",
+                    "rating": 1
+                },
+                {
+                    "name": "Javascript",
+                    "rating": 5
+                },
+                {
+                    "name": "Typescript",
+                    "rating": 5
+                },
+                {
+                    "name": "PHP",
+                    "rating": 1
+                },
+                {
+                    "name": "HTML",
+                    "rating": 5
+                },
+                {
+                    "name": "CSS",
+                    "rating": 5
+                },
+                {
+                    "name": "Tailwind CSS",
+                    "rating": 5
+                }
+            ]
         },
         {
-            "name": "Next JS",
-            "rating": 5
-        },
-        {
-            "name": "Laravel",
-            "rating": 1
-        },
-        {
-            "name": "Javascript",
-            "rating": 5
-        },
-        {
-            "name": "Typescript",
-            "rating": 5
-        },
-        {
-            "name": "PHP",
-            "rating": 1
-        },
-        {
-            "name": "HTML",
-            "rating": 5
-        },
-        {
-            "name": "CSS",
-            "rating": 5
-        },
-        {
-            "name": "Tailwind CSS",
-            "rating": 5
+            "name": "IT Support",
+            "list": [
+                {
+                    "name": "PC Assembly (Perakitan Komputer)",
+                    "rating": 5
+                },
+                {
+                    "name": "PC Troubleshooting",
+                    "rating": 5
+                },
+                {
+                    "name": "Hardware Installation & Upgrade",
+                    "rating": 3
+                },
+                {
+                    "name": "Basic Electronic Device Repair",
+                    "rating": 2
+                },
+                {
+                    "name": "Software Installation & Configuration",
+                    "rating": 3
+                },
+                {
+                    "name": "Network Troubleshooting (Basic)",
+                    "rating": 1
+                }
+            ]
         }
     ],
     "educations": [
