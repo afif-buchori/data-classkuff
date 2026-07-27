@@ -8,9 +8,9 @@
         "birthDate": "1992-06-08",
         "birthCity": "Gresik, Jawa Timur",
         "Location": "Denpasar, Bali",
-        "bio": "Membangun aplikasi web modern, responsif, dan user-friendly dengan teknologi terkini."
+        "bio": ["Membangun aplikasi web modern, responsif, dan user-friendly dengan teknologi terkini.", "Menyediakan dukungan IT dasar untuk memastikan perangkat dan pengguna dapat bekerja secara optimal."]
     },
-    "aboutMe": "Frontend Developer dengan pengalaman lebih dari 3 tahun dalam membangun aplikasi web modern menggunakan React.js. Berpengalaman mengembangkan frontend pada aplikasi berbasis Laravel, Inertia.js, dan React, termasuk sistem OTA, portal perusahaan, dan aplikasi internal. Terbiasa mengimplementasikan desain menjadi antarmuka yang responsif, melakukan integrasi dengan REST API, serta berkolaborasi dengan backend developer untuk menghasilkan aplikasi yang scalable dan mudah dipelihara.",
+    "aboutMe": "Frontend Developer dengan pengalaman lebih dari 3 tahun dalam membangun aplikasi web modern menggunakan React.js. Berpengalaman mengembangkan frontend pada aplikasi berbasis Laravel, Inertia.js, dan React, termasuk sistem OTA, portal perusahaan, dan aplikasi internal. Terbiasa mengimplementasikan desain menjadi antarmuka yang responsif, melakukan integrasi dengan REST API, serta berkolaborasi dengan backend developer untuk menghasilkan aplikasi yang scalable dan mudah dipelihara. ",
     "socialMedia": [
         {
             "ico": "linkedin",
