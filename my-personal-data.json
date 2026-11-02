@@ -2,15 +2,15 @@
     "personalInfo": {
         "firstName": "Muchamad",
         "lastName": "Afif Buchori",
-        "phone": "82211338805",
+        "phone": "82221888985",
         "mail": "4fifbuchori@gmail.com",
-        "jobInfo": ["Frontend Developer", "IT Support"],
+        "jobInfo": ["Software Developer", "IT Support"],
         "birthDate": "1992-06-08",
         "birthCity": "Gresik, Jawa Timur",
         "Location": "Denpasar, Bali",
         "bio": ["Membangun aplikasi web modern, responsif, dan user-friendly dengan teknologi terkini.", "Menyediakan dukungan IT dasar untuk memastikan perangkat dan pengguna dapat bekerja secara optimal."]
     },
-    "aboutMe": "Saya adalah Frontend Developer dengan pengalaman lebih dari 3 tahun dalam membangun aplikasi web modern menggunakan React.js dan Next.js. Berpengalaman mengembangkan frontend pada aplikasi berbasis Laravel, Inertia.js, dan React, termasuk sistem OTA, portal perusahaan, dan aplikasi internal. Terbiasa mengimplementasikan desain menjadi antarmuka yang responsif, melakukan integrasi dengan REST API, serta berkolaborasi dengan backend developer untuk menghasilkan aplikasi yang scalable dan mudah dipelihara.\nSaya juga memiliki pengalaman basic sebagai IT Support dalam menangan hardware, software dan networking.",
+    "aboutMe": "Saya adalah Software Developer dengan pengalaman lebih dari 3 tahun dalam membangun aplikasi web modern menggunakan React.js dan Next.js. Berpengalaman mengembangkan frontend pada aplikasi berbasis Laravel, Inertia.js, dan React, termasuk sistem OTA, portal perusahaan, dan aplikasi internal. Terbiasa mengimplementasikan desain menjadi antarmuka yang responsif, melakukan integrasi dengan REST API, serta berkolaborasi dengan backend developer untuk menghasilkan aplikasi yang scalable dan mudah dipelihara.\nSaya juga memiliki pengalaman basic sebagai IT Support dalam menangan hardware, software dan networking.",
     "socialMedia": [
         {
             "ico": "linkedin",
@@ -135,7 +135,7 @@
     "experiences": [
         {
             "company": "PT ELEXART INOVASI KREATIF",
-            "job": ["Frontend Developer, IT Support"],
+            "job": ["Software Developer, IT Support"],
             "description": "Membangun aplikasi OTA (Online Travel Agency).\nMengembangkan portal internal perusahaan.\nMembangun sistem registrasi event.\nMenangani IT Support.\nBerkolaborasi dengan beberapa anak perusahaan.",
             "dateStart": "2023-07-11",
             "dateEnd": "2026-07-25"
